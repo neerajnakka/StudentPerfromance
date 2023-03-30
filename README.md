@@ -1,7 +1,6 @@
 ** Its in the development stage(over 80% code completed by march)  **
-# StudentPerfromance using data mining 
-displaying perfromance by using web interface built by react
-student dataset is stored in mongoDb
+# Student Perfromance using data mining 
+Technologies used : Python,React,mongoDb,CSS,HTML,Jaavsript
 
 Using advanced data mining techniques, I developed a predictive model for forecasting studentperformance. By conducting comprehensive data collection, cleaning, exploration, modal
 building, and validation.
